@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	height: 1145px;
+	width: 790px;
+	/* border: 1px solid red; */
+}
