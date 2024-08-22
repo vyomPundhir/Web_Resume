@@ -45,7 +45,7 @@ const Education = () => {
 				<div className="mt-2 border-2 border-dashed border-gray-300 "></div>
 				<div>
 					<h1 className="text-[16px] ">Senior Secondary</h1>
-					<h1 className="text-[14px] font-bold">St. Francis Inter College</h1>
+					<h1 className="text-[14px] font-bold">Lord Buddha Public School</h1>
 					<div className="flex mt-1 gap-12 justify-start items-center">
 						<div className="flex gap-2 justify-start items-center ">
 							<svg
@@ -73,7 +73,7 @@ const Education = () => {
 							>
 								<path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z" />
 							</svg>
-							<span className="text-[13.5px]">Hathras</span>
+							<span className="text-[13.5px]">Kota</span>
 						</div>
 					</div>
 				</div>
